@@ -140,8 +140,6 @@ Mon objectif : évoluer vers un poste de développeuse web **full‑stack** dans
 ---
 
 📧 **Email** — abouda.fatimaez@gmail.com  
-🔗 **LinkedIn** — https://www.linkedin.com/in/fatima-abouda-b7797a28b/  
-🌐 **Portfolio** — https://portfolio-fatima-abouda.vercel.app  
 💬 **Discord** — fafa6490  
 
 ---
