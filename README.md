@@ -13,7 +13,7 @@ Passion • Rigueur • Créativité
 ## **Profil Professionnel**  
 ---  
 
-Développeuse web passionnée et motivée, spécialisée dans le backend et la conception d’applications web.  
+Développeuse web passionnée et motivée.  
 J’aime analyser, structurer et optimiser chaque étape d’un projet : modélisation, logique métier, qualité du code et expérience utilisateur.  
 Mon objectif : évoluer vers un poste de développeuse web **full‑stack** dans un environnement stimulant.
 
