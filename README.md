@@ -1,50 +1,147 @@
-## Hi there 👋
+---
 
-<!--
-**fatimaabouda-iut/fatimaabouda-iut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-# 👋 Hi there, I'm **Fatima ABOUDA**
+<div align="center">
 
-🎓 *Développeuse Web — BTS SIO SLAM*  
-💻 Passionnée par le développement, la modélisation et la création d’applications utiles et bien structurées.
+# **Fatima ABOUDA**  
+Développeuse Web — Backend & Conception  
+Passion • Rigueur • Créativité  
 
 ---
 
-## 🔭 I’m currently working on  
-- Des projets web en PHP / Symfony  
-- L’amélioration de mon portfolio  
-- Des applications MVC avec MySQL  
+</div>
 
-## 🌱 I’m currently learning  
-- Symfony & Doctrine  
-- API REST  
-- Approfondissement en cybersécurité (CSRF, SQLi, XXE…)  
+## **Profil Professionnel**  
+---  
 
-## 👯 I’m looking to collaborate on  
-- Des projets web open‑source  
-- Des applications PHP / Symfony  
-- Des projets étudiants ou associatifs  
-
-## 🤔 I’m looking for help with  
-- L’optimisation de projets Symfony  
-- Les bonnes pratiques DevOps (Docker, CI/CD)  
-
-## 💬 Ask me about  
-- PHP, MySQL, MVC  
-- Modélisation Merise / UML  
-- Gestion de projet (Agile, Gantt, MPM)  
-
-## 📫 How to reach me  
-- ✉️ **fatima.abouda@etu.unilim.fr**  
-- 🔗 **LinkedIn :** `https://www.linkedin.com/in/fatima-abouda-b7797a28b/` [(linkedin.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffatima-abouda-b7797a28b%2F")  
-- 🌐 **Portfolio :** [https://portfolio-fatima-abouda.vercel.app/](https://portfolio-fatima-abouda.vercel.app/)  
-
-## 😄 Pronouns  
-She/Her  
-
-## ⚡ Fun fact  
-Je peux passer des heures à optimiser un script juste pour le plaisir de le rendre plus propre et plus efficace.
+Développeuse web passionnée et motivée, spécialisée dans le backend et la conception d’applications web.  
+J’aime analyser, structurer et optimiser chaque étape d’un projet : modélisation, logique métier, qualité du code et expérience utilisateur.  
+Mon objectif : évoluer vers un poste de développeuse web **full‑stack** dans un environnement stimulant.
 
 ---
 
-Tu veux une autre vibe ?
+# **Compétences Techniques**  
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **Langages**  
+---
+
+**PHP**  
+██████████████████████████████░░░░░░░░░░ 85%
+
+**Java**  
+███████████████████████░░░░░░░░░░░░░░░░ 70%
+
+**C#**  
+██████████████████░░░░░░░░░░░░░░░░░░░░ 60%
+
+**Python**  
+██████████████░░░░░░░░░░░░░░░░░░░░░░░ 50%
+
+**HTML / CSS**  
+██████████████████████████████████████ 100%
+
+**SQL**  
+████████████████████████████░░░░░░░░░ 90%
+
+</td>
+
+<td width="50%" valign="top">
+
+### **Frameworks & Outils**  
+---
+
+**Symfony**  
+██████████████████████████░░░░░░░░░░░░ 80%
+
+**Twig**  
+████████████████████████████░░░░░░░░░ 90%
+
+**Doctrine**  
+██████████████████████░░░░░░░░░░░░░░░ 70%
+
+**Postman**  
+██████████████████████████████░░░░░░░ 85%
+
+**phpMyAdmin**  
+████████████████████████████████░░░░░ 95%
+
+**Git / GitHub**  
+████████████████████████████░░░░░░░░░ 90%
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# **Méthodes & Cybersécurité**  
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **Méthodes & Concepts**  
+---
+
+**Architecture MVC**  
+██████████████████████████████░░░░░░░ 85%
+
+**API REST**  
+███████████████████████░░░░░░░░░░░░░░ 70%
+
+**UML**  
+████████████████████████░░░░░░░░░░░░░ 75%
+
+**Merise / MCD / MLD**  
+██████████████████████████████░░░░░░░ 85%
+
+**Agile / SCRUM**  
+████████████████████████░░░░░░░░░░░░░ 75%
+
+</td>
+
+<td width="50%" valign="top">
+
+### **Cybersécurité**  
+---
+
+**SQL Injection**  
+██████████████████████░░░░░░░░░░░░░░░ 70%
+
+**CSRF**  
+████████████████████░░░░░░░░░░░░░░░░░ 65%
+
+**XXE**  
+██████████████████░░░░░░░░░░░░░░░░░░░ 60%
+
+**RGPD Basics**  
+████████████████████████████░░░░░░░░░ 90%
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## **Contact**  
+---
+
+📧 **Email** — abouda.fatimaez@gmail.com  
+🔗 **LinkedIn** — https://www.linkedin.com/in/fatima-abouda-b7797a28b/  
+🌐 **Portfolio** — https://portfolio-fatima-abouda.vercel.app  
+💬 **Discord** — fafa6490  
+
+---
